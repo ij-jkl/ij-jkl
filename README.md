@@ -1,12 +1,12 @@
 ## 🚀  Hi there! I'm Isaac Jordan
 Software Development Student | 💻 Back-End Developer
 
-Passionate about building clean, scalable, and efficient software solutions. Currently working with modern technologies like C# .NET 6+, Java 17, and Spring Boot. I’m contributing to a Digital Signature system that enables users to sign documents online with full legal validity. I enjoy solving problems, writing clean code, and collaborating in agile environments.
+Passionate about building clean, scalable, and efficient software solutions. Currently working with modern technologies like C# .NET 6+, Java 17+, and Spring Boot. I’m contributing to a Digital Signature system that enables users to sign documents online with full legal validity. I enjoy solving problems, writing clean code, and collaborating in agile environments.
 
 
 ## Tech Stack
 
-**Languages :** C#, Java, Python, TypeScript
+**Languages :** C#, Java +17, Python, TypeScript
 
 **Frameworks :** .NET 6+, Spring Boot
 
