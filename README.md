@@ -10,8 +10,6 @@ Passionate about building clean, scalable, and efficient software solutions. Cur
 
 **Frameworks :** .NET 6+, Spring Boot
 
-**Practices & Architecture :** Clean Architecture,
-
 **Databases :** PostgreSQL, MySQL
 
 **Containers :** Docker
