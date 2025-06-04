@@ -20,6 +20,8 @@ Passionate about building clean, scalable, and efficient software solutions. Cur
 
 **Practices :** Clean Architecture, SOLID Principles, Unit Testing (JUnit, NUnit), Agile (Scrum)
 
+<h3>📊 GitHub Stats</h3>
+
 <table>
   <tr>
     <td>
@@ -28,7 +30,9 @@ Passionate about building clean, scalable, and efficient software solutions. Cur
       </a>
     </td>
     <td style="padding-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij-jkl&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij-jkl&layout=donut-vertical" alt="Top Langs" />
+      </a>
     </td>
   </tr>
 </table>
