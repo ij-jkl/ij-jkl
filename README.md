@@ -1,19 +1,20 @@
 ## 🚀 Hi there! I'm Isaac Jordan
-Software Development Graduate | 💻 Full-Stack Developer (Back-End Focus) | 🤖 AI Student
+Software Development Graduate | Full-Stack Developer (Back-End Focus) | AI Student
 
 Passionate about building clean, scalable, and efficient software solutions. Working with modern technologies like C# .NET 6+, Java 17+, Spring Boot, and Python.
 
-Bilingual (English C1-C2) | Based in Córdoba, Argentina 🇦🇷
+Bilingual (English C1-C2) | Based in Córdoba, Argentina
 
+Portfolio : https://isaacjordan.dev/
 ---
 
 ## 🎓 Education
 
 **Software Development Degree** - Quality ISAD (2023 - 2025)
-- ✅ Graduated with GPA: 9.31/10 (No failed exams)
+- Graduated with GPA: 9.31/10 (No failed exams)
 
 **Bachelor's Degree in Artificial Intelligence** - Universidad Blas Pascal (Mar 2026 - Dec 2027)
-- 📚 Currently Enrolled
+- Currently Enrolled
 
 ---
 
@@ -65,7 +66,7 @@ Bilingual (English C1-C2) | Based in Córdoba, Argentina 🇦🇷
 
 ---
 
-## 📫 Let's Connect!
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jordan-464563215/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaaz.jordan02@gmail.com)
