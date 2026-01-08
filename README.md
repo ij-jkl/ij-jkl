@@ -1,28 +1,50 @@
-## 🚀  Hi there! I'm Isaac Jordan
-Software Development Student | 💻 Back-End Developer
+## 🚀 Hi there! I'm Isaac Jordan
+Software Development Graduate | 💻 Full-Stack Developer (Back-End Focus) | 🤖 AI Student
 
-Passionate about building clean, scalable, and efficient software solutions. Currently working with modern technologies like C# .NET 6+, Java 17+, and Spring Boot.
+Passionate about building clean, scalable, and efficient software solutions. Working with modern technologies like C# .NET 6+, Java 17+, Spring Boot, and Python.
 
-I enjoy solving problems, writing clean code, and collaborating in agile environments. Looking forward to keep on learning!
+Bilingual (English C1-C2) | Based in Córdoba, Argentina 🇦🇷
 
+---
 
-## Tech Stack
+## 🎓 Education
 
-**Languages :** C#, Java, Python, TypeScript
+**Software Development Degree** - Quality ISAD (2023 - 2025)
+- ✅ Graduated with GPA: 9.31/10 (No failed exams)
 
-**Frameworks :** .NET 6+, Spring Boot
+**Bachelor's Degree in Artificial Intelligence** - Universidad Blas Pascal (Mar 2026 - Dec 2027)
+- 📚 Currently Enrolled
 
-**Databases :** PostgreSQL, MySQL
+---
 
-**Containers :** Docker
+## 📜 Certifications
 
-**Scripts :** Shell for Linux and Powershell for Windows
+- **Backend Java Specialization** (345h) - Globant University (2025)
+- **Google Cloud Computing Foundations** - Google Cloud (2025)
+- **CIP English Certificate (C1-C2)** - Universidad Nacional de Córdoba (2024)
+- **Oracle Next Education F2 T6 Back-end** (286h) - Alura Latam (2024)
 
-**Version Control :** Git, GitHub
+---
 
-**Frontend :** Angular, React, Next.js
+## 🛠️ Tech Stack
 
-**Practices :** Clean Architecture, SOLID Principles, Unit Testing (JUnit, NUnit), Agile (Scrum)
+**Languages:** C#, Java, Python, TypeScript
+
+**Frameworks:** .NET 6+, Spring Boot
+
+**Databases:** PostgreSQL, MySQL
+
+**Containers:** Docker
+
+**Scripts:** Shell for Linux, PowerShell for Windows
+
+**Version Control:** Git, GitHub
+
+**Frontend:** Angular, React, Next.js
+
+**Practices:** Clean Architecture, SOLID Principles, Unit Testing (JUnit, NUnit), Agile (Scrum)
+
+---
 
 <h3>📊 GitHub Stats</h3>
 
@@ -40,3 +62,10 @@ I enjoy solving problems, writing clean code, and collaborating in agile environ
     </td>
   </tr>
 </table>
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jordan-464563215/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaaz.jordan02@gmail.com)
