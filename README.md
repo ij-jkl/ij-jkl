@@ -13,9 +13,12 @@ Currently expanding my skill set into Artificial Intelligence, bridging the gap 
 
 ## 💼 Experience
 
-**Backend Software Engineer** @ **N5 Now** *(Jan 2026 - Mar 2026)*
-- Developed a modernized backend application using **.NET 10**, ensuring high performance and scalability.
-- Integrated corporate services via **Microsoft Graph API** and implemented robust security flows using **JWT and Keycloak**.
+**Backend Software Engineer** @ **N5 Now** *(Mar 2026 - Present)*
+- Developing and maintaining microservices architectures in a fully remote environment.
+
+**Summer Experience** @ **N5 Now** *(Jan 2026 - Mar 2026)*
+- Spearheaded the development of a new microservices architecture utilizing the latest LTS release, **.NET 10**, to drive system modernization, ensuring high performance and robust backend scalability.
+- Selected to participate in the final stage of the company's Summit in Brazil, where I had the opportunity to present the project and its strategic results directly to the CEO and executive leadership team.
 
 **Software Engineer** @ **Encodelabs S.A.** *(Sep 2024 - Dec 2025)*
 - Developed maintainable systems using **C# (.NET 6+)** and **Java (17+)** with **Spring Boot** following Clean Architecture principles.
@@ -41,7 +44,6 @@ Currently expanding my skill set into Artificial Intelligence, bridging the gap 
 
 ## 🎯 Currently Learning
 
-- 🧠 **CS50's Introduction to Artificial Intelligence with Python** (HarvardX)
 - 🤖 Diving deep into Machine Learning, Search Algorithms, and Neural Networks for my Bachelor's in AI.
 
 ---
