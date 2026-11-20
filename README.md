@@ -1,19 +1,19 @@
 ## 🚀 Hi there! I'm Isaac Jordan
 
-**Backend Software Engineer | AI Student | Tech Enthusiast**
+**Fullstack /Backend focused Software Engineer | AI Student | Tech Enthusiast**
 
 I'm a software engineer specialized in building clean, scalable, and efficient backend solutions. With over a year and a half of professional experience in high-concurrency environments, I focus on crafting robust architectures and integrating complex services.
 
 Currently expanding my skill set into Artificial Intelligence, bridging the gap between traditional backend systems and intelligent data models.
 
 🌍 Based in Córdoba, Argentina | 🗣️ Bilingual (English C1-C2)
-🔗 **Portfolio:** [isaacjordan.dev](https://isaacjordan.dev/)
+🔗 **Portfolio:** [jordanisaac.me](https://www.jordanisaac.me/)
 
 ---
 
 ## 💼 Experience
 
-**Backend Software Engineer** @ **N5 Now** *(Mar 2026 - Present)*
+**Fullstack Software Engineer** @ **N5 Now** *(Mar 2026 - Present)*
 - Developing and maintaining microservices architectures in a fully remote environment.
 
 **Summer Experience** @ **N5 Now** *(Jan 2026 - Mar 2026)*
@@ -50,7 +50,7 @@ Currently expanding my skill set into Artificial Intelligence, bridging the gap 
 
 ## 🎓 Education & Certifications
 
-- **Bachelor's Degree in Artificial Intelligence** - Universidad Blas Pascal *(In Progress, 2026 - 2027)*
+- **Bachelor's Degree in Artificial Intelligence** - Universidad Blas Pascal *(In Progress, 2026 - 2027)* 66% of coursework completed (12/18 subjects) | 33% of final exams passed (6/18).
 - **Software Development Degree** - Quality ISAD *(Graduated, GPA: 9.31/10)*
 - **Backend Java Specialization** - Globant University 
 - **Google Cloud Computing Foundations** - Google Cloud 
